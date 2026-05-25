@@ -1,0 +1,8 @@
+{
+  "name": "agentignore",
+  "description": "Respects .agentignore files — blocks Claude from reading or editing files that match gitignore-style patterns, so you can keep secrets, credentials, and personal notes out of reach.",
+  "author": {
+    "name": "Alexandru Comanescu",
+    "email": "alexandru.comanescu@devias.io"
+  }
+}

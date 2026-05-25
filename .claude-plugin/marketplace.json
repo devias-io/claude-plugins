@@ -1,0 +1,20 @@
+{
+  "name": "devias",
+  "owner": {
+    "name": "Alexandru Comanescu",
+    "email": "alexandru.comanescu@devias.io"
+  },
+  "description": "Marketplace for the agentignore plugin",
+  "plugins": [
+    {
+      "name": "agentignore",
+      "description": "Respects .agentignore files — blocks Claude from reading or editing files that match gitignore-style patterns, so you can keep secrets, credentials, and personal notes out of reach.",
+      "author": {
+        "name": "Alexandru Comanescu",
+        "email": "alexandru.comanescu@devias.io"
+      },
+      "source": "./plugins/agentignore",
+      "homepage": "https://github.com/devias-io/claude-plugins/tree/main/plugins/agentignore"
+    }
+  ]
+}
